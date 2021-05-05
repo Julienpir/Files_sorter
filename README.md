@@ -20,6 +20,9 @@ python3 files_sorter_IHM.py
 
 ## Utilisation
 
-Pour utiliser les codes, il faut renseigner certaines informations nécessaires à son bon fonctionnement.
-Le code *files_sorter.py* a ses paramètres prédéfinis tandis que *files_sorter_IHM.py* demande de rentrer les paramètres à chaque utilisation à l'aide de l'IHM.
+Pour utiliser les codes, il faut renseigner certaines informations nécessaires à son bon fonctionnement.  
+Le code *files_sorter.py* a ses paramètres prédéfinis tandis que *files_sorter_IHM.py* demande de rentrer les paramètres à chaque utilisation à l'aide de l'IHM.  
 Pour changer les paramètres prédéfinis dans *files_sorter.py*, il faut se rendre à la fin du code.
+
+
+Liste des 
